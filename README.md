@@ -9,4 +9,4 @@
 
 4. After that the loading screen wil be setup
 
-5. You can use music bu uncommenting the audio part in the index.html file.
+5. You can use music by uncommenting the audio part in the index.html file.
